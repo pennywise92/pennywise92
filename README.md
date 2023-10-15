@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **a MERN stack project**
+- 🔭 I’m currently working on **SAP Fiori project**
 
 - 🌱 I’m currently learning **<more about web3 development and machine learning>**
 
